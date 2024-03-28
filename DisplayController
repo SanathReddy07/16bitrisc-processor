@@ -1,14 +1,7 @@
 /****************************** C E C S  3 0 1 ******************************
  * 
  * File Name:  Display_Controller.v
- * Project:    Lab Project 8: 16-Bit RISC Processor
- * Designer 1: Michael Rios
- * Email:      riosmichael28@ymail.com
- * Designer 2: Yuliana Uriostegui
- * Email: 		yulove613@gmail.com
- * Rev. No.:   Version 1.0
- * Rev. Date:  November 15, 2016  
- *
+ 
  * Purpose: This module will serve as a "wrapper" for the modules making up the 
  display controller: the led clock, led controller, 8 to 1 multiplexer, and hex 
  to 7 segment display modules. The modules will be instantiated into this block 
