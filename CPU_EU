@@ -1,13 +1,6 @@
 /****************************** C E C S  3 0 1 ******************************
  * 
- * File Name:  CPU_EU.v
- * Project:    Lab Project 8: 16-Bit RISC Processor
- * Designer 1: Michael Rios
- * Email:      riosmichael28@ymail.com
- * Designer 2: Yuliana Uriostegui
- * Email: 		yulove613@gmail.com
- * Rev. No.:   Version 1.1
- * Rev. Date:  November 18, 2016  
+ 
  *
  * Purpose: This module instantiates all the modules that
  make up the CPU execution unit. That includes: Integer Datapath,
